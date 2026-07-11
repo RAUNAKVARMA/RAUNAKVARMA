@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Raunak Varma
 
 🚀 AI Engineer | Multi-Agent Systems | LLMs | Computer Vision
-🏆 Founder @RAURAN CHARGE (Wireless EV Charging Startup)| AI INTERN @EY
+🏆 Founder @RAURAN CHARGE (Wireless EV Charging Startup)| 
+   AI INTERN @EY
 📄 Springer Research Author | Building real-world intelligent AI systems
 
 ---
