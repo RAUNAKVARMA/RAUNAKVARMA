@@ -60,7 +60,7 @@ Currently pursuing my **B.Tech in Computer Science** at Manipal University Jaipu
 - *Wireless Charging for Electric Vehicles: A Comprehensive Review* — SSIC 2025, Sikkim
 - *Meta AI Agents: Multi-Agent Coordination* — DISHA 2026, Jaipur *(Accepted)*
 - *Hybrid Microwave–Resonant Inductive WPT Architecture for Intelligent EV Charging* — Springer CCIS, icSoftComp 2026, Singapore *(Accepted)*
-- *Hybrid Microwave–Resonant Inductive Wireless Charging with Oscillation-Enhanced Efficiency* — IEEE Open Access Journal *(Under Review)*
+- *Hybrid Microwave–Resonant Inductive Wireless Charging with Oscillation-Enhanced Efficiency* — IEEE Open Access Journal *(Accepted)*
 
 ---
 
